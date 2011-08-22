@@ -6,8 +6,8 @@ Simple datastructures in C
 Implemented Structures
 ----------------------
 
-* Hashtable
-* Skiplist
+* Hashtable (unfinished)
+* Skiplist (unfinished)
 
 Usage
 -----
